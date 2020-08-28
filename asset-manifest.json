@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ema-john-simple%20/static/css/main.80f75778.chunk.css",
+    "main.js": "/ema-john-simple%20/static/js/main.868f83a1.chunk.js",
+    "main.js.map": "/ema-john-simple%20/static/js/main.868f83a1.chunk.js.map",
+    "runtime-main.js": "/ema-john-simple%20/static/js/runtime-main.4ebe45a8.js",
+    "runtime-main.js.map": "/ema-john-simple%20/static/js/runtime-main.4ebe45a8.js.map",
+    "static/js/2.045a1b7d.chunk.js": "/ema-john-simple%20/static/js/2.045a1b7d.chunk.js",
+    "static/js/2.045a1b7d.chunk.js.map": "/ema-john-simple%20/static/js/2.045a1b7d.chunk.js.map",
+    "index.html": "/ema-john-simple%20/index.html",
+    "precache-manifest.6746a23120a1657d233d712f70542974.js": "/ema-john-simple%20/precache-manifest.6746a23120a1657d233d712f70542974.js",
+    "service-worker.js": "/ema-john-simple%20/service-worker.js",
+    "static/css/main.80f75778.chunk.css.map": "/ema-john-simple%20/static/css/main.80f75778.chunk.css.map",
+    "static/js/2.045a1b7d.chunk.js.LICENSE.txt": "/ema-john-simple%20/static/js/2.045a1b7d.chunk.js.LICENSE.txt",
+    "static/media/logo1.png": "/ema-john-simple%20/static/media/logo1.c9fedba8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ebe45a8.js",
+    "static/js/2.045a1b7d.chunk.js",
+    "static/css/main.80f75778.chunk.css",
+    "static/js/main.868f83a1.chunk.js"
+  ]
+}
